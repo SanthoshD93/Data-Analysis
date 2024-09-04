@@ -1,8 +1,8 @@
 # Data-Analysis
-##Overview:
+## Overview:
 AtliQ Hardware is a leading global hardware manufacturer, selling products to various customers like Amazon, Flipkart, Croma, Staples, Best Buy, etc. which are grouped by three channels, naming Retailer, Direct and Distributor. They needed data driven insights for making informed decisions. They were facing challenges in finding insights from the data which had over 1.5 million records so, I was given the task to create Sales & Finance Reports and find insights from the data.
 
-##Steps:
+## Steps:
 1.	Data Import
 Loaded the data to excel which were provided as a CSV file.
 
@@ -21,7 +21,7 @@ Developed multiple new measures and columns using DAX, including Net Sales, Gros
 6.	User Empathetic Design
 Applied Conditional Formatting to enhance data presentation, Highlighting key information, and improving overall data readability.
 
-##Insights:
+## Insights:
 1.	India emerges as the forerunner in net sales at a staggering 161.3M
 2.	AQ Master wired x1 Ms takes the crown as our highest-sold product
 3.	Festive seasons witness soaring sales from October to December
