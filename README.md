@@ -1,4 +1,4 @@
-# Data-Analysis
+# Sales & Finance Report
 ## Overview:
 AtliQ Hardware is a leading global hardware manufacturer, selling products to various customers like Amazon, Flipkart, Croma, Staples, Best Buy, etc. which are grouped by three channels, naming Retailer, Direct and Distributor. They needed data driven insights for making informed decisions. They were facing challenges in finding insights from the data which had over 1.5 million records so, I was given the task to create Sales & Finance Reports and find insights from the data.
 
